@@ -71,7 +71,7 @@ h5{
 
 ul li:hover{
     font-size: 23px;
-    color: pink;
+    color: red;
 }
 h2{
    background-color: rgb(3, 59, 63) ;
@@ -100,4 +100,5 @@ h6{
      color: aliceblue;     border-radius: 50px;
 
 }
+
 body
